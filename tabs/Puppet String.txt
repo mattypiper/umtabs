@@ -1,0 +1,82 @@
+--- Puppet String bass ---
+by mattypiper 1/17/2013
+
+Intro (whole notes mainly, sometimes other rhythmic variations)
+G--------------------
+D--------------------
+A--2-----------------
+E-------3----0-------
+
+Interlude (slap/pop style)
+G-------------11----------------------
+D------9--0h9----0h9-----10\----------
+A-------------------------------------
+E--0h7---------------0h8-----x-x------
+
+G-------------------------------7-----
+D------9------7----------5--0h7---9~--
+A---------0h7---0h7--0h5--------------
+E--0h7--------------------------------
+
+Verse (repeat between x's. Vary rhythm as needed. Written here is the bouncy "and-a" feel)
+G--------|-------------------------------------------|
+D--------|x-----------------------------------------x|
+A--------|x----3------3----------5-----6-----5h7----x|
+E--0-0---|---0----------3------3-----7-----7-----0---|
+
+Chorus (all plucked, punk style, no hammers!)
+G-------------------------------
+D-------------------------------
+A-------5------------7---5------
+E-0-5-7--7-5-7-0---7---7--------
+
+--- Puppet String Guitar ---
+
+Jake harmonics:
+
+e----12-----------------------
+B-7--------12-----------------
+G-------7---------12----------
+D-------------7----------12---
+A--------------------7--------
+E-----------------------------
+
+sometimes does this trill:
+E--2h3p2h3p2h3p2h3p2h3p2--
+B-------------------------
+G-------------------------
+D-------------------------
+A-------------------------
+E-------------------------
+occasionally he'll tap on the 7th fret or on the 19th fret for some added nice-ness.
+
+Bayliss just plays some light palm muted B5 til it builds to the slap part
+
+Here is what I'm pretty sure is the first half of the bass line.  It might be off by a little bit cause its really hard to hear all the notes, but this is what I have.  All slapping obviously:
+
+G---------------11--------------
+D------9----0h9------------10---
+A------------------9p0----------
+E--0h7-----------------0h8----8-
+
+Over the verse Jake just plays some ascending octave stuff and then this line between vocal lines:
+
+e-------------------------
+B-10-9-10-12-10-9-10-9----
+G----------------------9--
+D-------------------------
+A-------------------------
+E-------------------------
+
+The best part! rocking bayliss riff
+E----------------------------
+B----------------------------
+G----------------------------
+D----------------------------
+A-------5------------7---5---
+E-0h5h7--7-5h7-0---7---7-----
+
+
+I think Jake is playin these chords over that riff (those might be the root chords upon relisten, so he might be harmonizing those chords)
+
+e > d, c# > c

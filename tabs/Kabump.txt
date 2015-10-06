@@ -38,3 +38,13 @@ Then the transition riff
 |-----------------------------------|
 
 then back to riff 2
+
+From Owen Howe owenhowe9@gmail.com
+The chord progression above is wrong, it's actually an F# strummed twice to an E major in the "C shape" also strummed twice.
+You should be able to figure out the groove by listening to the song. The other riffs above are correct to my ear!
+|--2----x-----|
+|--2----5-----|
+|--3----4-----|
+|--4----6-----|
+|--4----7-----|
+|--2----x-----|

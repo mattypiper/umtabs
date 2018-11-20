@@ -1,0 +1,38 @@
+
+Night Nurse
+Umphrey's McGee
+Tab by Mike S (rmsgambelluri@gmail.com)
+(11-19-2018)
+
+*Standard Tuning: E A D G B E
+*tabbed from 6/26/2013 (Big Indian, NY)
+
+
+
+This one is almost purely open on the guitars, but Joel's chords can be played like this:
+
+E|--------------------------------------------------
+B|----6-------6-------6---------9----7-----------o--
+G|----6-------6-------8---------8----8--------------
+D|----4-------6-------6---------7----7--------------
+A|----6-------8-------8---------9----9-----------o--
+E|------------6-------9---------7----7--------------
+
+
+
+
+The full chords on keyboard are:
+
+   Ebm9  Fm/Bb  Dbadd9  B13  B9
+
+with these voicings: (notes low to high, "|" separates left/right hands)
+
+  Ebm9:      Eb | Gb Bb Db F
+  Fm/Bb:     Bb | Ab Bb C F  
+  Dbadd9:  Db F | Ab Db Eb F
+  B13:     B Gb | A Db Eb Ab
+  B9:      B Gb | A Db Eb Gb
+
+
+
+************************************************************************************************************

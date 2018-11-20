@@ -11,7 +11,7 @@ Feel free to suggest edits to any of the files in the project.  To do so:
 
 ## Submitting a new transcription
 
-1. Click [Submit a new guitar transcription](https://github.com/mattypiper/umtabs/new/master/tabs) or [Submit a new bass transcription](https://github.com/mattypiper/umtabs/new/master/bass)
+1. Click [Submit a new guitar transcription](https://github.com/mattypiper/umtabs/new/master/tabs).
 2. Paste or type in the transcription, then click "Propose new file"
 3. On the next page, click "Send pull request" to send a request to have your transcription file merged into the main project.
 

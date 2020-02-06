@@ -41,8 +41,8 @@
 
 .tablature {
 	white-space: pre;
-	font-family: courier new;
-	font-size: 80%;
+	font-family: consolas;
+	font-size: 1em;
 	color: black;
 	margin-left: 5px;
 }

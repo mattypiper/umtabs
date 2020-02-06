@@ -1,4 +1,4 @@
-Viewable on the web at http://umtabs.com/menu.php
+Viewable on the web at http://umtabs.com/
 
 ## Editing transcriptions
 

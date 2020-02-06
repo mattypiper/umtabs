@@ -1,7 +1,11 @@
 <!doctype html>
 <html>
 	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
 		<title>umtabs - Umphrey's McGee Guitar Tablature</title>
+
 		<script type="text/javascript" src="components/jquery/jquery.min.js"></script>
 		<script type="text/javascript" src="components/mustache/mustache.js"></script>
 		<script type="text/javascript" src="components/datejs/build/date.js"></script>
@@ -17,18 +21,6 @@
 			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 			ga('create', 'UA-37556222-2', 'auto');
 			ga('send', 'pageview');
-		</script>
-	
-		<script type="text/javascript">
-	        $(document).ready(function() {
-	        	updatesTemplate = $('#updatesTemplate').html();
-	        	$('#updates ul').html($('#loadingBar').html());
-				$.getJSON('https://api.github.com/repos/mattypiper/umtabs/commits', function(data) {
-					console.log(data[0]);
-					var d = new Date();
-					$('#updatedOn').html(d);
-				});
-			});
 		</script>
 	</head>
 	<body>

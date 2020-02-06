@@ -5,17 +5,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Umphrey's McGee Tablature">
     <title>Umphrey's McGee Tabs</title>
-    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
     <link rel="stylesheet" href="css/umtabs.css">
-    <!--[if lte IE 8]>
-	<link rel="stylesheet" href="/css/side-menu-old-ie.css">
-    <![endif]-->
-    <!--[if gt IE 8]><!-->
-	<link rel="stylesheet" href="/css/side-menu.css">
-    <!--<![endif]-->
-	<!--[if lt IE 9]>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.js"></script>
-	<![endif]-->
 
 	<script src="js/ui.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -48,7 +39,7 @@
 				foreach ($files as $f) {
 					$song = preg_replace("/\.txt$/", "", $f);
 					$usong = rawurlencode($f);
-					print "<li class=\"pure-menu-item\"><a href=\"tab.php?tab=$usong\" class=\"pure-menu-link song-link\">$song</a></li>";
+					print "<li class=\"pure-menu-item\"><a href=\"tab.php?tab=$usong\" class=\"pure-menu-link\">$song</a></li>";
 				}
 			?>
             </br>

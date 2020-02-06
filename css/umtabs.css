@@ -46,3 +46,23 @@
 	color: black;
 	margin-left: 5px;
 }
+
+.pure-menu {
+  background-color: #111;
+}
+
+.pure-menu-heading {
+  color: #eee;
+  margin-left: 0.5em;
+  margin-bottom: 1em;
+}
+
+.pure-menu-link {
+  color: #ccc;
+  margin-left: 0.5em;
+}
+
+.pure-menu-link:hover,
+.pure-menu-link:focus {
+  background: rgb(55, 60, 90);
+}

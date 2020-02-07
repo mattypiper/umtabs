@@ -16,8 +16,7 @@
     <link rel="stylesheet" href="css/umtabs.css">
 </head>
 <body>
-<div class="tablature">
-<?php
+<pre><?php
 if ($file_contents === false)
     echo "File not found.\n";
 else {

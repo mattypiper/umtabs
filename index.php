@@ -21,7 +21,7 @@
 </head>
 
 <body>
-<div id="layout">
+<div id="layout" class="body">
     <!-- Menu toggle -->
     <a href="#menu" id="menuLink" class="menu-link">
     <!-- Hamburger icon -->
@@ -42,10 +42,17 @@
                 }
             ?>
             <li class="pure-menu-item"><br/></li>
-            <li class="pure-menu-item"><a class="pure-menu-link" href="https://github.com/mattypiper/umtabs">Contribute on Github</a></li>
         </ul>
     </div>
-    </div>
+    <div class="footer" style="padding-bottom: 40px;">
+        <div class="pure-menu pure-menu-horizontal">
+            <ul>
+                <li>
+                    <a class="pure-button" href="https://github.com/mattypiper/umtabs">Contribute on Github</a>
+                </li>
+            </ul>
+        </div>
+    <div
 </div>
 </body>
 </html>

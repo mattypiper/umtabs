@@ -1,0 +1,14 @@
+{
+  "name": "umtabs",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npm run build && node scripts/serve.mjs",
+    "preview": "npm run build && node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

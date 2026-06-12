@@ -1,4 +1,42 @@
-Viewable on the web at http://umtabs.com/
+# Umphrey's McGee Tabs
+
+A static archive of Umphrey's McGee guitar tabs. The site is generated from the
+plain text files in `tabs/`, so contributors can still add or edit one `.txt`
+file and have it appear in the web UI automatically after the next build.
+
+## Development
+
+Requirements:
+
+- Node.js 20 or newer
+
+Commands:
+
+```sh
+npm run build
+npm run dev
+```
+
+`npm run build` scans `tabs/*.txt`, copies the raw tabs, generates `tabs.json`,
+and writes the static site to `dist/`.
+
+The main page provides an instant search across all songs (Title | Search bar | List).
+Clicking any song opens a dedicated HTML tab page that renders directly in any
+mobile or desktop browser without triggering file save/download prompts. The tab
+viewer includes clean monospace formatting, horizontal scrolling, pinch-to-zoom
+support, a back link to the song list, and links to both view and download the raw `.txt` file.
+
+## Hosting
+
+This project is ready for GitHub Pages. The included GitHub Actions workflow
+builds `dist/` and deploys it whenever changes land on `main` or `master`.
+
+To enable it in GitHub:
+
+1. Open the repository settings.
+2. Go to Pages.
+3. Choose GitHub Actions as the Pages source.
+4. Add a custom domain there if you want `umtabs.com` to keep working.
 
 ## Editing transcriptions
 

@@ -314,6 +314,20 @@ async function build() {
     `${JSON.stringify({ generatedAt: new Date().toISOString(), tabs: tabsJsonData }, null, 2)}\n`
   );
 
+  // 6. Generate sitemap.xml for search engines
+  const sitemapUrls = [
+    "  <url><loc>https://umtabs.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>",
+    ...tabsWithContent.map(
+      (t) =>
+        `  <url><loc>https://umtabs.com/tabs/${t.slug}.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>`
+    )
+  ];
+  const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapUrls.join("\n")}
+</urlset>\n`;
+  await writeFile(path.join(distDir, "sitemap.xml"), sitemapXml);
+
   console.log(`Built ${tabsWithContent.length} tabs and static site in dist/`);
 }
 

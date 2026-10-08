@@ -1,1 +1,4 @@
-Sitemap: http://umtabs.com/sitemap.php
+User-agent: *
+Allow: /
+
+Sitemap: https://umtabs.com/sitemap.xml
